@@ -41,7 +41,7 @@ Since Simpla is intended to be a simple and fixed language, contributions are li
 ## Contact
 
 - Creator: Shane Stover  
-- Co-Creator (Tool): ChatGPT (Session ID: 2024-12-03-01)  
+- Co-Creator (Tool): ChatGPT (Session ID: 674f9511-ab98-800c-baa6-063097a3015b ) 2024-12-03-01 
 - Email: [theshanestover@icloud.com](mailto:theshanestover@icloud.com)
 
 ## Acknowledgments
