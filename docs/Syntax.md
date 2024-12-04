@@ -44,17 +44,17 @@ Simpla supports conditional statements using if, else, and elif (optional):
 
 ```simpla
 if num > 5:
-    print("Greater than 5")
+    print "Greater than 5"
 else:
-    print("Less than or equal to 5")
+    print "Less than or equal to 5"
 ```
 # Input and Output
 You can print values to the console using print and read input with read also using variables:
 
 ```simpla
 var X = "Hello, World"
-print(var(X))
-print("Hello, world!")  # Prints text
+print var(X)
+print "Hello, world!"  # Prints text
 var name = read("Enter your name: ")  # Reads user input and stores in variable
 ```
 # Declaring Structures
@@ -74,4 +74,4 @@ You can access structure fields using the . operator:
 
 ```simpla
 
-print(var(john.name))  # Output: John
+print var(john.name)  # Output: John
