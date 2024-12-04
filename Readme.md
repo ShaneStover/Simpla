@@ -32,7 +32,7 @@ To get started with Simpla, follow these steps:
 
 ## License
 
-Simpla is licensed under the Simpla License v1.0. See the [LICENSE](master/LICENSE) file for more details.
+Simpla is licensed under the Simpla License v1.0. See the [LICENSE](./LICENSE.txt) file for more details.
 
 ## Contributing
 
