@@ -2,10 +2,11 @@
 
 ## Variable Assignment
 Variables can be assigned using the `=` sign:
-
+```simpla
 num = 10
 isTrue = true
 name = "Simpla"
+```
 
 # Data Types
 Simpla supports the following data types:
