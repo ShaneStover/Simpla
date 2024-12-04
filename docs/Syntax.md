@@ -66,8 +66,8 @@ struct Person:
     var age = 0
 
 var john = Person()        # Create instance of Person
-var john.name = "John"     # Access and set field 'name'
-var john.age = 30          # Access and set field 'age'
+john.name = "John"     # Access and set field 'name'
+john.age = 30          # Access and set field 'age'
 ```
 # Accessing Structure Fields
 You can access structure fields using the . operator:
